@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <section className="w-screen h-screen content-center justify-center bg-black">
         <div className="w-full content-center justify-center text-center">
-          <h1 className="text-5xl font-bold">Sword Fontain</h1>
+          <h1 className="text-5xl font-bold mt-20">Sword Fontain</h1>
           <div className="w-full flex justify-center pt-20 rounded-[100px]">
             <Image src="/images/first.jpg" alt="Imagine full screen" className="rounded-[5px] shadow-xl/30" width={300} height={100}/>
           </div>
